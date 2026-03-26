@@ -26,17 +26,18 @@ const RAW_BUZZ_FILE = join(__dirname, "../data/raw_buzz.json");
 const SEARCH_QUERIES = [
   "#京都カフェ",
   "#京都グルメ",
-  "#京都ランチ",
-  "#京都穴場",
-  "#京都隠れ家",
-  "#祇園グルメ",
-  "#嵐山カフェ",
-  "京都 地元民おすすめ",
-  "京都 外国人に教えたくない",
+  "#京都喫茶店",
+  "京都 絶景 穴場",
+  "京都 観光 空いてる",
+  "#名古屋カフェ",
+  "#名古屋グルメ",
+  "名古屋 観光 穴場",
+  "名古屋 地元民おすすめ",
+  "名古屋 外国人に教えたくない",
 ];
 
 // 最小いいね数
-const MIN_LIKES = 50;
+const MIN_LIKES = 15;
 
 function loadRawBuzz() {
   if (!existsSync(RAW_BUZZ_FILE)) return [];
