@@ -1,0 +1,22 @@
+{
+  "name": "akebono-mcp",
+  "version": "0.1.0",
+  "description": "Agent-ready Japanese temple data API — scored, reasoned, and optimized for AI travel agents",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "akebono-mcp": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.23.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["mcp", "japan", "kyoto", "travel", "temple", "agent"],
+  "license": "MIT"
+}
