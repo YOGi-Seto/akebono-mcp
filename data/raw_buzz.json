@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "tweet_id": "2036758967117062654",
+    "text": "夜ご飯は堀川今出川近くの逃現郷でオムライス🐣\nめちゃくちゃお洒落な喫茶店🥰雰囲気最高！\n\n京都にしては珍しく深夜0時まで営業してるらしい🫢スイーツ系も良さそうなのでまた来たい！\n\n#京都カフェ https://t.co/G6WaPa4M4q https://t.co/M5IciSy8cr",
+    "like_count": 424,
+    "retweet_count": 16,
+    "created_at": "2026-03-25T10:55:53.000Z",
+    "search_query": "#京都カフェ",
+    "collected_at": "2026-03-26",
+    "structured": true,
+    "spot_id": "spot_001"
+  },
+  {
+    "tweet_id": "2037012211814850666",
+    "text": "天気予報見たら💫\n最高気温ほとんど20℃超え☀️\n早すぎませんか🍵\n過ごしやすい日々が長続きして欲しい🤣🎶\n\nhttps://t.co/Yfyi8Y5AHb\n\n#誕生日ケーキ #フルーツケーキ #チルド #パイ #記念日 #オヤツ #スイーツ #京都スイーツ #京都グルメ #お取り寄せスイーツ #通販 #京都 #お祝い #合格 #入学祝い https://t.co/Elc5s2pzkM",
+    "like_count": 67,
+    "retweet_count": 2,
+    "created_at": "2026-03-26T03:42:11.000Z",
+    "search_query": "#京都グルメ",
+    "collected_at": "2026-03-26",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "お取り寄せ通販のため実店舗なし"
+  },
+  {
+    "tweet_id": "2037066344269795655",
+    "text": "近所行くことあったら、いっぺん寄ってみよ、と思てた #寺町通り の #お蕎麦屋 さん。\nセットメニューもあって迷たけど、暖っかいおろしそばにしました。野菜の天ぷらも乗ってて、美味しおした。\n#京都 #京ことば #更科 #京都ランチ #京の暮らし https://t.co/B12aXJ03K4",
+    "like_count": 66,
+    "retweet_count": 2,
+    "created_at": "2026-03-26T07:17:21.000Z",
+    "search_query": "#京都ランチ",
+    "collected_at": "2026-03-26",
+    "structured": true,
+    "spot_id": "spot_002"
+  },
+  {
+    "tweet_id": "2036277257556337118",
+    "text": "トーホー食堂\n唐揚げ定食\n#飯テロ #京都グルメ #京都ランチ #ランチ #老舗 #唐揚げ #豚汁 #ラーメン #中華そば #高コスパ #食堂 #ボリューム満点 #隠れ家的 #人気店 https://t.co/yFNf2EWojX",
+    "like_count": 85,
+    "retweet_count": 7,
+    "created_at": "2026-03-24T03:01:45.000Z",
+    "search_query": "#京都ランチ",
+    "collected_at": "2026-03-26",
+    "structured": true,
+    "spot_id": "spot_003"
+  }
+]

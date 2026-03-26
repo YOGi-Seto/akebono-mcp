@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "id": "spot_001",
+    "name": "逃現郷",
+    "name_en": null,
+    "category": "cafe",
+    "city": "京都",
+    "area": "堀川今出川",
+    "buzz_type": "instagram",
+    "buzz_score": 85,
+    "buzz_reason": "お洒落な雰囲気で人気の喫茶店。深夜0時まで営業という京都では珍しい営業時間が話題。オムライスとスイーツが人気。",
+
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": "深夜帯（〜0時）も利用可能"
+    },
+
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+
+    "pairs_well_with": [],
+    "routing_notes": null,
+
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+
+    "trivia": [
+      "京都にしては珍しく深夜0時まで営業",
+      "オムライスとスイーツが人気メニュー"
+    ],
+
+    "tags": ["喫茶店", "お洒落", "深夜営業", "オムライス", "スイーツ"],
+    "suitable_for": ["カップル", "一人旅"],
+    "source": "x_buzz",
+    "source_tweet_ids": ["2036758967117062654"],
+    "collected_at": "2026-03-26",
+    "verified": false
+  },
+  {
+    "id": "spot_002",
+    "name": "更科（寺町通り）",
+    "name_en": null,
+    "category": "restaurant",
+    "city": "京都",
+    "area": "寺町通り",
+    "buzz_type": "local_repeat",
+    "buzz_score": 62,
+    "buzz_reason": "地元民が「いっぺん寄ってみたかった」と通う寺町通りの蕎麦屋。おろしそばと野菜の天ぷらが美味しいと評判。",
+
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": false,
+      "wait_time_peak": null,
+      "best_time": "ランチタイム"
+    },
+
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+
+    "pairs_well_with": [],
+    "routing_notes": "寺町通り沿いにある蕎麦屋。周辺寺社からのアクセス良好。",
+
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+
+    "trivia": [
+      "セットメニューあり。おろしそば＋野菜の天ぷらが定番",
+      "地元の京ことばが飛び交う雰囲気"
+    ],
+
+    "tags": ["蕎麦", "和食", "ランチ", "地元民御用達", "寺町通り"],
+    "suitable_for": ["一人旅", "歴史好き"],
+    "source": "x_buzz",
+    "source_tweet_ids": ["2037066344269795655"],
+    "collected_at": "2026-03-26",
+    "verified": false
+  },
+  {
+    "id": "spot_003",
+    "name": "トーホー食堂",
+    "name_en": null,
+    "category": "restaurant",
+    "city": "京都",
+    "area": null,
+    "buzz_type": "established",
+    "buzz_score": 65,
+    "buzz_reason": "老舗・隠れ家的な食堂。唐揚げ定食が看板メニューで高コスパ・ボリューム満点と評判。地元民に長年愛されている。",
+
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": true,
+      "notes": "定食系のため写真・指差しで注文しやすいと思われる"
+    },
+
+    "timing": {
+      "peak_hours": ["12:00-13:00"],
+      "off_peak": null,
+      "reservation_required": false,
+      "wait_time_peak": null,
+      "best_time": "ランチタイム"
+    },
+
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": "高コスパ（ランチ想定 ¥1,000前後）"
+    },
+
+    "pairs_well_with": [],
+    "routing_notes": null,
+
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "老舗食堂。創業年不明。"
+    },
+
+    "trivia": [
+      "唐揚げ定食が看板メニュー。豚汁付き",
+      "ラーメン・中華そばも提供する昔ながらの食堂スタイル"
+    ],
+
+    "tags": ["食堂", "老舗", "唐揚げ", "高コスパ", "ボリューム満点", "隠れ家的"],
+    "suitable_for": ["一人旅", "家族連れ"],
+    "source": "x_buzz",
+    "source_tweet_ids": ["2036277257556337118"],
+    "collected_at": "2026-03-26",
+    "verified": false
+  }
+]
