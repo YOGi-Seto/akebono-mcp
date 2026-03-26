@@ -10,6 +10,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const temples = JSON.parse(readFileSync(join(__dirname, "../data/temples.json"), "utf-8"));
 const topics = JSON.parse(readFileSync(join(__dirname, "../data/topics.json"), "utf-8"));
+const spotsFile = join(__dirname, "../data/spots.json");
 
 // キーワードマッピング（クエリ語 → 寺院タグ）
 const KEYWORD_MAP = {
@@ -205,6 +206,125 @@ server.tool(
         {
           type: "text",
           text: JSON.stringify({ ...temple, topics: templeTopics }, null, 2),
+        },
+      ],
+    };
+  }
+);
+
+// ツール3: find_trending_spots
+server.tool(
+  "find_trending_spots",
+  "日本人SNSでバズっているが外国人にはまだ知られていない京都のスポット（カフェ・レストランなど）を検索する。寺院以外の隠れた名所を探すときに使う。",
+  {
+    query: z.string().describe(
+      "検索クエリ（例：「静かなカフェ 一人旅」「町家 歴史的建造物」「外国人向け 英語メニュー」）"
+    ),
+    city: z.string().optional().default("京都").describe("都市名（デフォルト: 京都）"),
+    category: z.string().optional().describe(
+      "カテゴリ絞り込み（cafe / restaurant / bar / shop / activity など）"
+    ),
+    limit: z.number().optional().default(5).describe("返す件数（デフォルト5件）"),
+  },
+  async ({ query, city = "京都", category, limit = 5 }) => {
+    // spots.json をその都度読み込む（追記に対応するため）
+    let spots = [];
+    try {
+      spots = JSON.parse(readFileSync(spotsFile, "utf-8"));
+    } catch {
+      spots = [];
+    }
+
+    if (spots.length === 0) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: JSON.stringify({
+              query,
+              message: "まだスポットデータがありません。/project:extract-spots でデータを追加してください。",
+              results: [],
+            }),
+          },
+        ],
+      };
+    }
+
+    const q = query.toLowerCase();
+
+    // 都市フィルタ
+    let filtered = spots.filter((s) =>
+      s.city === city || s.city?.includes(city)
+    );
+
+    // カテゴリフィルタ
+    if (category) {
+      filtered = filtered.filter((s) => s.category === category);
+    }
+
+    // スコアリング
+    const scored = filtered.map((spot) => {
+      let score = spot.buzz_score ?? 50;
+
+      // クエリとタグのマッチング
+      for (const tag of spot.tags ?? []) {
+        if (q.includes(tag)) score += 10;
+      }
+      for (const sf of spot.suitable_for ?? []) {
+        if (q.includes(sf)) score += 12;
+      }
+
+      // foreign_friendly クエリのボーナス
+      if (q.includes("英語") || q.includes("外国人")) {
+        score += (spot.foreign_friendly?.score ?? 0) / 10;
+      }
+
+      // 静か・混雑なしクエリ
+      if (q.includes("静か") || q.includes("穴場") || q.includes("空いて")) {
+        if (spot.buzz_type === "local_repeat" || spot.buzz_type === "established") {
+          score += 15;
+        }
+      }
+
+      return {
+        name: spot.name,
+        name_en: spot.name_en,
+        category: spot.category,
+        area: spot.area,
+        buzz_score: spot.buzz_score,
+        buzz_reason: spot.buzz_reason,
+        buzz_type: spot.buzz_type,
+        foreign_friendly_score: spot.foreign_friendly?.score,
+        price_range: spot.price_range?.label,
+        best_time: spot.timing?.best_time,
+        tags: spot.tags,
+        suitable_for: spot.suitable_for,
+        pairs_well_with: spot.pairs_well_with,
+        routing_notes: spot.routing_notes,
+        trivia: spot.trivia?.slice(0, 2),
+        verified: spot.verified,
+        _score: Math.min(100, Math.round(score)),
+      };
+    });
+
+    scored.sort((a, b) => b._score - a._score);
+    const results = scored.slice(0, limit).map(({ _score, ...rest }) => rest);
+
+    return {
+      content: [
+        {
+          type: "text",
+          text: JSON.stringify(
+            {
+              query,
+              city,
+              category: category ?? "all",
+              total_results: results.length,
+              results,
+            },
+            null,
+            2
+          ),
         },
       ],
     };
