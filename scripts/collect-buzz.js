@@ -16,8 +16,7 @@ if (existsSync(localEnv)) {
   config({ path: fallbackEnv });
   console.log("[collect-buzz] fallback: kyoto-history-site/.env を使用");
 } else {
-  console.error("[collect-buzz] .env ファイルが見つかりません");
-  process.exit(1);
+  console.log("[collect-buzz] .env なし — 環境変数から読み込みます");
 }
 
 const RAW_BUZZ_FILE = join(__dirname, "../data/raw_buzz.json");
