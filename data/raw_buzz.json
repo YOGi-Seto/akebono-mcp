@@ -51,7 +51,9 @@
     "retweet_count": 2,
     "created_at": "2026-03-28T23:32:42.000Z",
     "search_query": "#京都カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_004"
   },
   {
     "tweet_id": "2037786430093865242",
@@ -60,7 +62,9 @@
     "retweet_count": 1,
     "created_at": "2026-03-28T06:58:39.000Z",
     "search_query": "#京都カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_005"
   },
   {
     "tweet_id": "2038096420985795029",
@@ -69,7 +73,9 @@
     "retweet_count": 1,
     "created_at": "2026-03-29T03:30:27.000Z",
     "search_query": "#京都グルメ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_006"
   },
   {
     "tweet_id": "2037017060132483428",
@@ -78,7 +84,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-26T04:01:27.000Z",
     "search_query": "京都 観光 空いてる",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "特定のスポットが言及されていない一般的な感想ツイート"
   },
   {
     "tweet_id": "2037712230222004708",
@@ -87,7 +96,9 @@
     "retweet_count": 0,
     "created_at": "2026-03-28T02:03:49.000Z",
     "search_query": "#名古屋カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_007"
   },
   {
     "tweet_id": "2036639611670401110",
@@ -96,7 +107,10 @@
     "retweet_count": 4,
     "created_at": "2026-03-25T03:01:37.000Z",
     "search_query": "#名古屋カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "YouTubeのVlogシェアで特定スポットの言及なし"
   },
   {
     "tweet_id": "2036609013962477622",
@@ -105,7 +119,9 @@
     "retweet_count": 6,
     "created_at": "2026-03-25T01:00:01.000Z",
     "search_query": "#名古屋カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_008"
   },
   {
     "tweet_id": "2036024712506245197",
@@ -114,7 +130,9 @@
     "retweet_count": 4,
     "created_at": "2026-03-23T10:18:13.000Z",
     "search_query": "#名古屋カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_009"
   },
   {
     "tweet_id": "2037886650265854376",
@@ -123,7 +141,9 @@
     "retweet_count": 4,
     "created_at": "2026-03-28T13:36:54.000Z",
     "search_query": "名古屋 地元民おすすめ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_010"
   },
   {
     "tweet_id": "2038133858093379662",
@@ -132,7 +152,9 @@
     "retweet_count": 1,
     "created_at": "2026-03-29T05:59:13.000Z",
     "search_query": "#京都カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_005"
   },
   {
     "tweet_id": "2037957326276321716",
@@ -141,6 +163,8 @@
     "retweet_count": 2,
     "created_at": "2026-03-28T18:17:44.000Z",
     "search_query": "#京都カフェ",
-    "collected_at": "2026-03-29"
+    "collected_at": "2026-03-29",
+    "structured": true,
+    "spot_id": "spot_011"
   }
 ]
