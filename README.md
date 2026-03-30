@@ -1,8 +1,11 @@
 # akebono-mcp
 
-**Agent-ready Japanese temple data — scored, reasoned, optimized for AI travel agents.**
+**Agent-ready Japanese travel spots — hidden gems, curated from SNS buzz, optimized for AI travel agents.**
 
-エージェント時代の旅行情報インフラ。京都の寺院データをAIエージェントが直接使える形で提供するMCPサーバー。
+エージェント時代の旅行情報インフラ。SNSのバズから「一般的すぎない特別な体験スポット」を厳選し、AIエージェントが直接使える形で提供するMCPサーバー。
+
+**現在のフォーカスエリア:** 名古屋（大須・栄・金山・久屋大通・矢場町）
+昭和レトロ・古民家リノベ・隠れ家など、非日常体験のできる穴場スポットを収集中。
 
 ## ツール
 
@@ -76,7 +79,8 @@ npm install
 
 ## ロードマップ
 
-- [ ] 京都全域に拡張（50寺院）
+- [ ] 名古屋エリアのスポットを50件以上に拡充
+- [ ] 他都市への展開（大阪・京都・福岡など）
 - [ ] リアルタイム混雑情報
 - [ ] 利用データによるスコア精度向上
 - [ ] 日本全国展開
