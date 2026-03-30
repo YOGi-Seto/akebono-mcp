@@ -9,7 +9,6 @@
     "buzz_type": "instagram",
     "buzz_score": 85,
     "buzz_reason": "お洒落な雰囲気で人気の喫茶店。深夜0時まで営業という京都では珍しい営業時間が話題。オムライスとスイーツが人気。",
-
     "foreign_friendly": {
       "score": null,
       "english_menu": null,
@@ -17,7 +16,6 @@
       "visual_ordering": null,
       "notes": null
     },
-
     "timing": {
       "peak_hours": null,
       "off_peak": null,
@@ -25,32 +23,38 @@
       "wait_time_peak": null,
       "best_time": "深夜帯（〜0時）も利用可能"
     },
-
     "price_range": {
       "min": null,
       "max": null,
       "currency": "JPY",
       "label": null
     },
-
     "pairs_well_with": [],
     "routing_notes": null,
-
     "heritage": {
       "building_age": null,
       "designation": null,
       "historical_notes": null
     },
-
     "trivia": [
       "京都にしては珍しく深夜0時まで営業",
       "オムライスとスイーツが人気メニュー"
     ],
-
-    "tags": ["喫茶店", "お洒落", "深夜営業", "オムライス", "スイーツ"],
-    "suitable_for": ["カップル", "一人旅"],
+    "tags": [
+      "喫茶店",
+      "お洒落",
+      "深夜営業",
+      "オムライス",
+      "スイーツ"
+    ],
+    "suitable_for": [
+      "カップル",
+      "一人旅"
+    ],
     "source": "x_buzz",
-    "source_tweet_ids": ["2036758967117062654"],
+    "source_tweet_ids": [
+      "2036758967117062654"
+    ],
     "collected_at": "2026-03-26",
     "verified": false
   },
@@ -64,7 +68,6 @@
     "buzz_type": "local_repeat",
     "buzz_score": 62,
     "buzz_reason": "地元民が「いっぺん寄ってみたかった」と通う寺町通りの蕎麦屋。おろしそばと野菜の天ぷらが美味しいと評判。",
-
     "foreign_friendly": {
       "score": null,
       "english_menu": null,
@@ -72,7 +75,6 @@
       "visual_ordering": null,
       "notes": null
     },
-
     "timing": {
       "peak_hours": null,
       "off_peak": null,
@@ -80,32 +82,38 @@
       "wait_time_peak": null,
       "best_time": "ランチタイム"
     },
-
     "price_range": {
       "min": null,
       "max": null,
       "currency": "JPY",
       "label": null
     },
-
     "pairs_well_with": [],
     "routing_notes": "寺町通り沿いにある蕎麦屋。周辺寺社からのアクセス良好。",
-
     "heritage": {
       "building_age": null,
       "designation": null,
       "historical_notes": null
     },
-
     "trivia": [
       "セットメニューあり。おろしそば＋野菜の天ぷらが定番",
       "地元の京ことばが飛び交う雰囲気"
     ],
-
-    "tags": ["蕎麦", "和食", "ランチ", "地元民御用達", "寺町通り"],
-    "suitable_for": ["一人旅", "歴史好き"],
+    "tags": [
+      "蕎麦",
+      "和食",
+      "ランチ",
+      "地元民御用達",
+      "寺町通り"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "歴史好き"
+    ],
     "source": "x_buzz",
-    "source_tweet_ids": ["2037066344269795655"],
+    "source_tweet_ids": [
+      "2037066344269795655"
+    ],
     "collected_at": "2026-03-26",
     "verified": false
   },
@@ -119,7 +127,6 @@
     "buzz_type": "established",
     "buzz_score": 65,
     "buzz_reason": "老舗・隠れ家的な食堂。唐揚げ定食が看板メニューで高コスパ・ボリューム満点と評判。地元民に長年愛されている。",
-
     "foreign_friendly": {
       "score": null,
       "english_menu": null,
@@ -127,41 +134,531 @@
       "visual_ordering": true,
       "notes": "定食系のため写真・指差しで注文しやすいと思われる"
     },
-
     "timing": {
-      "peak_hours": ["12:00-13:00"],
+      "peak_hours": [
+        "12:00-13:00"
+      ],
       "off_peak": null,
       "reservation_required": false,
       "wait_time_peak": null,
       "best_time": "ランチタイム"
     },
-
     "price_range": {
       "min": null,
       "max": null,
       "currency": "JPY",
       "label": "高コスパ（ランチ想定 ¥1,000前後）"
     },
-
     "pairs_well_with": [],
     "routing_notes": null,
-
     "heritage": {
       "building_age": null,
       "designation": null,
       "historical_notes": "老舗食堂。創業年不明。"
     },
-
     "trivia": [
       "唐揚げ定食が看板メニュー。豚汁付き",
       "ラーメン・中華そばも提供する昔ながらの食堂スタイル"
     ],
-
-    "tags": ["食堂", "老舗", "唐揚げ", "高コスパ", "ボリューム満点", "隠れ家的"],
-    "suitable_for": ["一人旅", "家族連れ"],
+    "tags": [
+      "食堂",
+      "老舗",
+      "唐揚げ",
+      "高コスパ",
+      "ボリューム満点",
+      "隠れ家的"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "家族連れ"
+    ],
     "source": "x_buzz",
-    "source_tweet_ids": ["2036277257556337118"],
+    "source_tweet_ids": [
+      "2036277257556337118"
+    ],
     "collected_at": "2026-03-26",
+    "verified": false
+  },
+  {
+    "id": "spot_004",
+    "name": "ブラックキャットコーヒー",
+    "name_en": "Black Cat Coffee",
+    "category": "cafe",
+    "city": "京都",
+    "area": "祇園白川",
+    "buzz_type": "instagram",
+    "buzz_score": 52,
+    "buzz_reason": "祇園白川沿いの早朝8時から開くコーヒースタンド。英語メニューのみのインバウンド対応店だが地元からも絶賛されるカフェラテが話題。テイクアウト専門。",
+    "foreign_friendly": {
+      "score": 90,
+      "english_menu": true,
+      "english_staff": null,
+      "visual_ordering": true,
+      "notes": "英語メニューのみ。インバウンド向けの設計。"
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": [
+        "08:00-10:00"
+      ],
+      "reservation_required": false,
+      "wait_time_peak": null,
+      "best_time": "早朝（8時〜）"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": "祇園白川沿い。白川沿い散策の朝のスタートに最適。テイクアウトのみ。",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "英語メニューのみというインバウンド向けスタイルだが、味は本格的",
+      "テイクアウト専門のスタンドスタイル",
+      "朝8時から営業"
+    ],
+    "tags": [
+      "コーヒースタンド",
+      "テイクアウト",
+      "英語メニュー",
+      "インバウンド",
+      "早朝営業",
+      "祇園"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "外国人旅行者"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2038036589826437381"
+    ],
+    "collected_at": "2026-03-29",
+    "verified": false
+  },
+  {
+    "id": "spot_005",
+    "name": "さろん淳平",
+    "name_en": null,
+    "category": "cafe",
+    "city": "京都",
+    "area": null,
+    "buzz_type": "instagram",
+    "buzz_score": 45,
+    "buzz_reason": "ぬい活・ぬい撮りコミュニティに人気の京都カフェ。ピタパンや桜のチーズケーキなどユニークなメニューと、お雛様展示など季節のイベントが魅力。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": null,
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "2階に雛人形の展示室あり（季節限定）"
+    },
+    "trivia": [
+      "ぬい活・ぬい撮りコミュニティから人気を博す",
+      "ピタパン、桜のチーズケーキなど独特のメニュー構成",
+      "季節限定で雛人形展示あり（2階）"
+    ],
+    "tags": [
+      "喫茶店",
+      "ぬい活",
+      "季節イベント",
+      "チーズケーキ",
+      "ピタパン"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "カップル"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2037786430093865242",
+      "2038133858093379662"
+    ],
+    "collected_at": "2026-03-29",
+    "verified": false
+  },
+  {
+    "id": "spot_006",
+    "name": "TreS",
+    "name_en": "TreS",
+    "category": "restaurant",
+    "city": "京都",
+    "area": "桂駅近く",
+    "buzz_type": "viral",
+    "buzz_score": 62,
+    "buzz_reason": "桂駅近くにある穴場のイタリアンバル。「桂駅はランチできる店が少ない」と嘆かれるエリアで前菜クオリティの高さが際立つと話題。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": "ランチタイム"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": "桂駅徒歩圏内。桂エリアのランチ不毛地帯での貴重な選択肢。",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "桂駅周辺のランチ難民を救う穴場イタリアンバル",
+      "前菜のクオリティが特に高いと評判"
+    ],
+    "tags": [
+      "イタリアン",
+      "バル",
+      "ランチ",
+      "パスタ",
+      "前菜",
+      "桂"
+    ],
+    "suitable_for": [
+      "カップル",
+      "一人旅"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2038096420985795029"
+    ],
+    "collected_at": "2026-03-29",
+    "verified": false
+  },
+  {
+    "id": "spot_007",
+    "name": "THE STRINGS HOTEL NAGOYA",
+    "name_en": "THE STRINGS HOTEL NAGOYA",
+    "category": "other",
+    "city": "名古屋",
+    "area": null,
+    "buzz_type": "instagram",
+    "buzz_score": 38,
+    "buzz_reason": "名古屋のラグジュアリーホテルでのアフターヌーンティーが話題。ヌン活コミュニティから注目を集めている。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": "アフターヌーンティー時間帯"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": "高級ホテル（アフターヌーンティー）"
+    },
+    "pairs_well_with": [],
+    "routing_notes": null,
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "ヌン活・アフターヌーンティーの名所として人気"
+    ],
+    "tags": [
+      "ホテル",
+      "アフターヌーンティー",
+      "ヌン活",
+      "ラグジュアリー",
+      "スイーツ"
+    ],
+    "suitable_for": [
+      "カップル",
+      "女子旅"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2037712230222004708"
+    ],
+    "collected_at": "2026-03-29",
+    "verified": false
+  },
+  {
+    "id": "spot_008",
+    "name": "gram 大須店",
+    "name_en": "gram Osu",
+    "category": "cafe",
+    "city": "名古屋",
+    "area": "大須",
+    "buzz_type": "viral",
+    "buzz_score": 28,
+    "buzz_reason": "名古屋・大須のスイーツカフェ。ハロプロコラボカフェとしても展開中で、新メニューのハンバーガーで話題に。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": "大須商店街エリア。大須観音周辺からアクセス可。",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "コラボカフェ（ハロプロ）として期間限定メニューを展開",
+      "パンケーキが元来の人気メニュー"
+    ],
+    "tags": [
+      "カフェ",
+      "スイーツ",
+      "コラボカフェ",
+      "大須",
+      "ハンバーガー"
+    ],
+    "suitable_for": [
+      "カップル",
+      "女子旅"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2036609013962477622"
+    ],
+    "collected_at": "2026-03-29",
+    "verified": false
+  },
+  {
+    "id": "spot_009",
+    "name": "ラクリマクリスティー",
+    "name_en": "Lacrima Christi",
+    "category": "cafe",
+    "city": "名古屋",
+    "area": "西区",
+    "buzz_type": "established",
+    "buzz_score": 42,
+    "buzz_reason": "名古屋・西区のメイドカフェ。レディースデーなどの定期イベントで常連客を集める老舗的な存在。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": "メイドカフェのためテーマ性あり。言語バリアはあるが独自のコミュニケーション文化"
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": "レディースデー（定期開催）"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": "名古屋・西区。",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "レディースデーなどの定期イベントを開催",
+      "メイドカフェ文化を体験できる名古屋の老舗店"
+    ],
+    "tags": [
+      "メイドカフェ",
+      "カフェ",
+      "イベント",
+      "西区",
+      "名古屋"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "サブカルチャー好き"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2036024712506245197"
+    ],
+    "collected_at": "2026-03-29",
+    "verified": false
+  },
+  {
+    "id": "spot_010",
+    "name": "矢場 味仙",
+    "name_en": "Yaba Misen",
+    "category": "restaurant",
+    "city": "名古屋",
+    "area": "矢場町",
+    "buzz_type": "established",
+    "buzz_score": 30,
+    "buzz_reason": "名古屋の台湾ラーメン発祥店として全国的に有名。地元民でも行列で入れないことがある人気店。東京進出も果たした。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": false,
+      "wait_time_peak": "混雑時は行列必至",
+      "best_time": "開店直後または閉店間際"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": "ラーメン（リーズナブル）"
+    },
+    "pairs_well_with": [],
+    "routing_notes": "矢場町エリア。地下鉄矢場町駅から徒歩圏内。",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "台湾ラーメンを名古屋に広めた元祖的存在"
+    },
+    "trivia": [
+      "台湾ラーメン発祥の老舗として全国的に知名度あり",
+      "地元民でも行列で入れないほどの人気",
+      "東京・丸の内にも「矢場味仙」が出店"
+    ],
+    "tags": [
+      "台湾ラーメン",
+      "老舗",
+      "名古屋めし",
+      "行列",
+      "矢場町"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "グルメ旅行者"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2037886650265854376"
+    ],
+    "collected_at": "2026-03-29",
+    "verified": false
+  },
+  {
+    "id": "spot_011",
+    "name": "随心院",
+    "name_en": "Zuishinin Temple",
+    "category": "temple",
+    "city": "京都",
+    "area": "山科区小野",
+    "buzz_type": "established",
+    "buzz_score": 22,
+    "buzz_reason": "小野小町ゆかりの寺院。毎年春に行われる「はねず踊り」と「今様」の伝統行事で知られる。地域の少女たちがはねず色の着物で踊る光景が風物詩。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": false,
+      "wait_time_peak": null,
+      "best_time": "春（はねず踊り開催時期・3月下旬）"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": "拝観料あり"
+    },
+    "pairs_well_with": [],
+    "routing_notes": "地下鉄東西線・小野駅から徒歩5分。山科区の静かなエリア。",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "小野小町ゆかりの寺院。平安時代の歌人・小野小町との深い縁を持つ"
+    },
+    "trivia": [
+      "小野小町ゆかりの寺として有名",
+      "毎春「はねず踊り」という伝統行事を開催。はねず色（薄紅色）の着物を着た少女が踊る",
+      "「今様」（平安時代の歌謡）の演奏も同時開催"
+    ],
+    "tags": [
+      "寺院",
+      "歴史",
+      "伝統行事",
+      "はねず踊り",
+      "小野小町",
+      "春"
+    ],
+    "suitable_for": [
+      "歴史好き",
+      "一人旅",
+      "文化体験"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2037957326276321716"
+    ],
+    "collected_at": "2026-03-29",
     "verified": false
   }
 ]
