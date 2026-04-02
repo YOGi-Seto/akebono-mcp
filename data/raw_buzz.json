@@ -174,7 +174,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-28T23:57:29.000Z",
     "search_query": "大須 穴場",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "「ここが穴場」の「ここ」が不明確でスポット名が特定できない。清州城自体は定番観光地。"
   },
   {
     "tweet_id": "2038110276776771694",
@@ -183,7 +186,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-29T04:25:30.000Z",
     "search_query": "久屋大通 カフェ",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "タリーズはチェーン店。レイヤード久屋大通パークは公共公園で体験の具体性が薄い。"
   },
   {
     "tweet_id": "2037070755033419951",
@@ -192,7 +198,9 @@
     "retweet_count": 32,
     "created_at": "2026-03-26T07:34:49.000Z",
     "search_query": "久屋大通 カフェ",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": "spot_012"
   },
   {
     "tweet_id": "2036645554760167643",
@@ -201,7 +209,10 @@
     "retweet_count": 9,
     "created_at": "2026-03-25T03:25:13.000Z",
     "search_query": "久屋大通 カフェ",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "イベント告知（怪談ライブ）でスポット自体の情報でない。"
   },
   {
     "tweet_id": "2036360116732092460",
@@ -210,7 +221,9 @@
     "retweet_count": 20,
     "created_at": "2026-03-24T08:31:00.000Z",
     "search_query": "久屋大通 カフェ",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": "spot_013"
   },
   {
     "tweet_id": "2037778355542749514",
@@ -219,7 +232,9 @@
     "retweet_count": 78,
     "created_at": "2026-03-28T06:26:34.000Z",
     "search_query": "名古屋 昭和レトロ 喫茶",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": "spot_014"
   },
   {
     "tweet_id": "2036768470730441109",
@@ -228,7 +243,9 @@
     "retweet_count": 12,
     "created_at": "2026-03-25T11:33:39.000Z",
     "search_query": "名古屋 昭和レトロ 喫茶",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": "spot_015"
   },
   {
     "tweet_id": "2038187407313608811",
@@ -237,7 +254,9 @@
     "retweet_count": 12,
     "created_at": "2026-03-29T09:32:00.000Z",
     "search_query": "名古屋 古民家 カフェ",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": "spot_016"
   },
   {
     "tweet_id": "2038386713819787296",
@@ -246,7 +265,10 @@
     "retweet_count": 16,
     "created_at": "2026-03-29T22:43:58.000Z",
     "search_query": "名古屋 非日常",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "イオンモール（大型商業施設）でスキップ基準に該当。"
   },
   {
     "tweet_id": "2038032177720664539",
@@ -255,7 +277,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-28T23:15:10.000Z",
     "search_query": "名古屋 非日常",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "自転車ブルベのブログ記事でスポット情報なし。"
   },
   {
     "tweet_id": "2038001869931630671",
@@ -264,7 +289,10 @@
     "retweet_count": 10,
     "created_at": "2026-03-28T21:14:44.000Z",
     "search_query": "名古屋 非日常",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "自己紹介ツイートでスポット情報なし。"
   },
   {
     "tweet_id": "2037867156193615998",
@@ -273,7 +301,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-28T12:19:26.000Z",
     "search_query": "名古屋 非日常",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "ライブイベントレポートでスポット情報なし。"
   },
   {
     "tweet_id": "2037726381140852840",
@@ -282,7 +313,10 @@
     "retweet_count": 25,
     "created_at": "2026-03-28T03:00:03.000Z",
     "search_query": "名古屋 非日常",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "イベント告知（花魁道中）でスポット情報なし。"
   },
   {
     "tweet_id": "2038605462489473378",
@@ -291,7 +325,9 @@
     "retweet_count": 19,
     "created_at": "2026-03-30T13:13:12.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": "spot_017"
   },
   {
     "tweet_id": "2038603312052994170",
@@ -300,7 +336,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-30T13:04:39.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-03-30"
+    "collected_at": "2026-03-30",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "アイドルSNS投稿でスポット情報なし。"
   },
   {
     "tweet_id": "2038937306896503050",
@@ -309,7 +348,9 @@
     "retweet_count": 7,
     "created_at": "2026-03-31T11:11:50.000Z",
     "search_query": "名古屋 非日常",
-    "collected_at": "2026-03-31"
+    "collected_at": "2026-03-31",
+    "structured": true,
+    "spot_id": "spot_018"
   },
   {
     "tweet_id": "2038963145700716906",
@@ -318,7 +359,9 @@
     "retweet_count": 54,
     "created_at": "2026-03-31T12:54:30.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-03-31"
+    "collected_at": "2026-03-31",
+    "structured": true,
+    "spot_id": "spot_019"
   },
   {
     "tweet_id": "2038951943465517479",
@@ -327,7 +370,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-31T12:09:59.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-03-31"
+    "collected_at": "2026-03-31",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "浜松遠征の話で名古屋スポット情報なし。"
   },
   {
     "tweet_id": "2038949949417926940",
@@ -336,7 +382,10 @@
     "retweet_count": 0,
     "created_at": "2026-03-31T12:02:04.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-03-31"
+    "collected_at": "2026-03-31",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "個人の成長エピソードでスポット情報なし。"
   },
   {
     "tweet_id": "2038951990802399707",
@@ -345,7 +394,9 @@
     "retweet_count": 2,
     "created_at": "2026-03-31T12:10:11.000Z",
     "search_query": "栄 隠れ家",
-    "collected_at": "2026-04-01"
+    "collected_at": "2026-04-01",
+    "structured": true,
+    "spot_id": "spot_020"
   },
   {
     "tweet_id": "2038936342155972845",
@@ -354,7 +405,10 @@
     "retweet_count": 4,
     "created_at": "2026-03-31T11:08:00.000Z",
     "search_query": "久屋大通 カフェ",
-    "collected_at": "2026-04-01"
+    "collected_at": "2026-04-01",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "1日限りのイベント（メイドカフェ企画）でスポットとして記録不適。"
   },
   {
     "tweet_id": "2039335185725194553",
@@ -363,7 +417,10 @@
     "retweet_count": 0,
     "created_at": "2026-04-01T13:32:51.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-04-01"
+    "collected_at": "2026-04-01",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "ライブイベントレポートでスポット情報なし。"
   },
   {
     "tweet_id": "2039307437635952879",
@@ -372,6 +429,9 @@
     "retweet_count": 0,
     "created_at": "2026-04-01T11:42:36.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-04-01"
+    "collected_at": "2026-04-01",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "居酒屋を探しているツイートでスポット情報なし。"
   }
 ]
