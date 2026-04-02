@@ -660,5 +660,551 @@
     ],
     "collected_at": "2026-03-29",
     "verified": false
+  },
+  {
+    "id": "spot_012",
+    "name": "保護猫カフェひとやすみ",
+    "name_en": null,
+    "category": "cafe",
+    "city": "名古屋市",
+    "area": "中区 錦3丁目",
+    "buzz_type": "local_repeat",
+    "buzz_score": 75,
+    "buzz_reason": "「足繁く通っている」と常連が語る保護猫カフェ。猫の人懐っこさとドリンクバー込み1,400円という良心的な価格が口コミで広がる。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": 1400,
+      "max": null,
+      "currency": "JPY",
+      "label": "ドリンクバー飲み放題1時間1,400円"
+    },
+    "pairs_well_with": [],
+    "routing_notes": "丸の内駅から徒歩4分、久屋大通駅から徒歩6分。錦3丁目1-6 ソアービル錦2F",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "保護猫カフェのため、猫たちが人懐っこい子ばかり",
+      "里親探しも兼ねた社会貢献型カフェ"
+    ],
+    "tags": [
+      "保護猫",
+      "猫カフェ",
+      "錦",
+      "中区",
+      "癒し"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "カップル",
+      "猫好き"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2037070755033419951"
+    ],
+    "collected_at": "2026-03-30",
+    "verified": false
+  },
+  {
+    "id": "spot_013",
+    "name": "カフェ オリベ",
+    "name_en": "Cafe Olive",
+    "category": "cafe",
+    "city": "名古屋市",
+    "area": "久屋大通",
+    "buzz_type": "instagram",
+    "buzz_score": 76,
+    "buzz_reason": "美濃焼の器でお茶やスイーツが楽しめる穴場カフェ。テラス席から久屋大通公園が見える景観も人気。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": "テラス席で公園を眺めながらの午後"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [
+      "レイヤード久屋大通パーク"
+    ],
+    "routing_notes": "久屋大通公園のテラス席から公園が見える",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "美濃焼の器を使用したカフェ",
+      "テラス席から久屋大通公園が一望できる穴場"
+    ],
+    "tags": [
+      "穴場",
+      "美濃焼",
+      "テラス席",
+      "久屋大通",
+      "スイーツ"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "カップル",
+      "インスタ映え"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2036360116732092460"
+    ],
+    "collected_at": "2026-03-30",
+    "verified": false
+  },
+  {
+    "id": "spot_014",
+    "name": "喫茶ボンボン",
+    "name_en": null,
+    "category": "cafe",
+    "city": "名古屋市",
+    "area": "東区",
+    "buzz_type": "established",
+    "buzz_score": 92,
+    "buzz_reason": "昭和レトロの老舗純喫茶。土曜日は超満員になる大人気店。洋菓子屋も営業しておりケーキが格安。アイスミルク¥450、ミルクレープ¥380の良心的価格。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": [
+        "土曜日全日"
+      ],
+      "off_peak": [
+        "平日"
+      ],
+      "reservation_required": null,
+      "wait_time_peak": "土曜は超満員",
+      "best_time": "平日来店推奨"
+    },
+    "price_range": {
+      "min": 380,
+      "max": 450,
+      "currency": "JPY",
+      "label": "アイスミルク¥450、ミルクレープ¥380"
+    },
+    "pairs_well_with": [],
+    "routing_notes": "名古屋市東区",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "昭和のレトロ感が残る老舗純喫茶"
+    },
+    "trivia": [
+      "洋菓子屋も兼業しているためケーキが格安",
+      "土曜日は超満員になる名物純喫茶",
+      "「ここに来るだけで癒される」と常連客が語る"
+    ],
+    "tags": [
+      "老舗",
+      "純喫茶",
+      "昭和レトロ",
+      "東区",
+      "格安スイーツ"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "レトロ好き",
+      "地元民"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2037778355542749514"
+    ],
+    "collected_at": "2026-03-30",
+    "verified": false
+  },
+  {
+    "id": "spot_015",
+    "name": "喫茶サンセン",
+    "name_en": null,
+    "category": "cafe",
+    "city": "名古屋市",
+    "area": "内田橋",
+    "buzz_type": "local_repeat",
+    "buzz_score": 80,
+    "buzz_reason": "内田橋ストアーという商店街の一角にある純喫茶。不二家で修行したマスターが作るホットケーキが絶品。クリームソーダは5種類から選べる。リピーターが3年ぶりに再訪するほどの魅力。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": "内田橋ストアー商店街の一角",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "マスターが不二家で修行した経歴を持つ",
+      "クリームソーダが5種類から選べる（紫色のグレープ系が珍しい）",
+      "#純喫茶 #昭和レトロで人気"
+    ],
+    "tags": [
+      "純喫茶",
+      "昭和レトロ",
+      "ホットケーキ",
+      "クリームソーダ",
+      "内田橋"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "レトロ好き",
+      "カップル"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2036768470730441109"
+    ],
+    "collected_at": "2026-03-30",
+    "verified": false
+  },
+  {
+    "id": "spot_016",
+    "name": "deuxpins",
+    "name_en": "deuxpins",
+    "category": "cafe",
+    "city": "名古屋市",
+    "area": null,
+    "buzz_type": "instagram",
+    "buzz_score": 72,
+    "buzz_reason": "古民家をリノベーションした安らぎのカフェ。しっかり硬めで濃厚なプリンがお茶にもよく合うと評判。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": null,
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "古民家をリノベーションした建物"
+    },
+    "trivia": [
+      "硬めで濃厚なプリンがお茶に合うと好評",
+      "古民家リノベーションカフェ"
+    ],
+    "tags": [
+      "古民家",
+      "プリン",
+      "リノベーション",
+      "癒し"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "カップル",
+      "インスタ映え"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2038187407313608811"
+    ],
+    "collected_at": "2026-03-30",
+    "verified": false
+  },
+  {
+    "id": "spot_017",
+    "name": "和徳稲荷社",
+    "name_en": null,
+    "category": "shrine",
+    "city": "名古屋市",
+    "area": null,
+    "buzz_type": "local_repeat",
+    "buzz_score": 76,
+    "buzz_reason": "「名古屋でも知る人ぞ知る桜の名所」として地元民に愛される稲荷社。知名度は低いが桜シーズンに映える穴場。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": false,
+      "wait_time_peak": null,
+      "best_time": "桜シーズン（3月下旬〜4月上旬）"
+    },
+    "price_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "JPY",
+      "label": "無料"
+    },
+    "pairs_well_with": [],
+    "routing_notes": null,
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "知る人ぞ知る稲荷社"
+    },
+    "trivia": [
+      "名古屋市内でも知名度が低い桜の穴場スポット",
+      "鳥居と桜のコントラストが美しい"
+    ],
+    "tags": [
+      "穴場",
+      "桜",
+      "稲荷社",
+      "神社",
+      "知る人ぞ知る"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "カップル",
+      "花見"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2038605462489473378"
+    ],
+    "collected_at": "2026-03-30",
+    "verified": false
+  },
+  {
+    "id": "spot_018",
+    "name": "TSUTAYA ノリタケガーデン店",
+    "name_en": "TSUTAYA Noritake Garden",
+    "category": "other",
+    "city": "名古屋市",
+    "area": "ノリタケガーデン",
+    "buzz_type": "instagram",
+    "buzz_score": 56,
+    "buzz_reason": "「まるで本の世界に入り込んだような感覚」と評される巨大な本棚が広がる圧巻の空間。非日常体験が味わえるTSUTAYA。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": false,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": 0,
+      "max": null,
+      "currency": "JPY",
+      "label": "入場無料（購入任意）"
+    },
+    "pairs_well_with": [],
+    "routing_notes": "イオンモール名古屋ノリタケガーデン内",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "旧ノリタケの森に隣接する複合施設内"
+    },
+    "trivia": [
+      "天井まで届く巨大本棚が圧巻の空間",
+      "「本の世界に入り込んだ感覚」と評されるフォトスポット"
+    ],
+    "tags": [
+      "書店",
+      "ノリタケガーデン",
+      "インスタ映え",
+      "非日常",
+      "本棚"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "カップル",
+      "読書好き"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2038937306896503050"
+    ],
+    "collected_at": "2026-03-31",
+    "verified": false
+  },
+  {
+    "id": "spot_019",
+    "name": "地下鉄名古屋駅 待ち合わせコーナー",
+    "name_en": "Nagoya Subway Station Meeting Corner",
+    "category": "other",
+    "city": "名古屋市",
+    "area": "名古屋駅",
+    "buzz_type": "viral",
+    "buzz_score": 82,
+    "buzz_reason": "「意外と知られていない」と300いいねを集めたバズスポット。地下鉄名古屋駅構内にある待ち合わせコーナーだが、実際に使っている人を見たことがないという謎の存在感。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": false,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "JPY",
+      "label": "無料"
+    },
+    "pairs_well_with": [],
+    "routing_notes": "地下鉄名古屋駅構内",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "待ち合わせコーナーとして設置されているが、使っている人を見た人がいないという都市伝説的存在",
+      "名古屋駅のトリビアとして300いいね超えのバズ投稿"
+    ],
+    "tags": [
+      "知る人ぞ知る",
+      "名古屋駅",
+      "地下鉄",
+      "トリビア",
+      "穴場"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "鉄道ファン"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2038963145700716906"
+    ],
+    "collected_at": "2026-03-31",
+    "verified": false
+  },
+  {
+    "id": "spot_020",
+    "name": "Twilightcoffee sakae",
+    "name_en": "Twilightcoffee sakae",
+    "category": "cafe",
+    "city": "名古屋市",
+    "area": "栄（中区）",
+    "buzz_type": "instagram",
+    "buzz_score": 52,
+    "buzz_reason": "栄の雑居ビルにある隠れ家カフェ。ノスタルジックな雰囲気でゆったりとした時間が過ごせる。桜抹茶プリンなど季節限定メニューが人気。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": "桜シーズンの季節限定メニューあり"
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": "栄の雑居ビル内。ライブハウスTight ROPEの近く",
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": null
+    },
+    "trivia": [
+      "栄の雑居ビルにある隠れ家的な立地",
+      "季節限定の桜抹茶プリンが人気"
+    ],
+    "tags": [
+      "隠れ家",
+      "栄",
+      "ノスタルジック",
+      "季節限定",
+      "プリン"
+    ],
+    "suitable_for": [
+      "一人旅",
+      "カップル",
+      "インスタ映え"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2038951990802399707"
+    ],
+    "collected_at": "2026-04-01",
+    "verified": false
   }
 ]
