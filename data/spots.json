@@ -1206,5 +1206,66 @@
     ],
     "collected_at": "2026-04-01",
     "verified": false
+  },
+  {
+    "id": "spot_021",
+    "name": "日々の果物",
+    "name_en": "Hibi no Kudamono",
+    "category": "cafe",
+    "city": "名古屋",
+    "area": null,
+    "buzz_type": "established",
+    "buzz_score": 65,
+    "buzz_reason": "老舗果物店が手がける古民家カフェ。フルーツたっぷりのプリンアラモードが名物。彩り豊かなデザートが人気。",
+    "foreign_friendly": {
+      "score": null,
+      "english_menu": null,
+      "english_staff": null,
+      "visual_ordering": null,
+      "notes": null
+    },
+    "timing": {
+      "peak_hours": null,
+      "off_peak": null,
+      "reservation_required": null,
+      "wait_time_peak": null,
+      "best_time": null
+    },
+    "price_range": {
+      "min": null,
+      "max": null,
+      "currency": "JPY",
+      "label": null
+    },
+    "pairs_well_with": [],
+    "routing_notes": null,
+    "heritage": {
+      "building_age": null,
+      "designation": null,
+      "historical_notes": "老舗果物店が母体の古民家カフェ"
+    },
+    "trivia": [
+      "フルーツたっぷりのプリンアラモードが看板メニュー",
+      "老舗果物店ならではの新鮮フルーツを使ったデザートが自慢"
+    ],
+    "tags": [
+      "古民家",
+      "カフェ",
+      "フルーツ",
+      "プリンアラモード",
+      "老舗",
+      "スイーツ"
+    ],
+    "suitable_for": [
+      "カップル",
+      "女性一人旅",
+      "観光客"
+    ],
+    "source": "x_buzz",
+    "source_tweet_ids": [
+      "2039583610869629025"
+    ],
+    "collected_at": "2026-04-02",
+    "verified": false
   }
 ]
