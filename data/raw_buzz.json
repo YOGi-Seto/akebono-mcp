@@ -441,7 +441,9 @@
     "retweet_count": 6,
     "created_at": "2026-04-02T06:00:01.000Z",
     "search_query": "名古屋 古民家 カフェ",
-    "collected_at": "2026-04-02"
+    "collected_at": "2026-04-02",
+    "structured": true,
+    "spot_id": "spot_021"
   },
   {
     "tweet_id": "2039726450623095151",
@@ -450,7 +452,10 @@
     "retweet_count": 2,
     "created_at": "2026-04-02T15:27:36.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-04-02"
+    "collected_at": "2026-04-02",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "実店舗なし（音楽ツアー情報）"
   },
   {
     "tweet_id": "2039702330925625709",
@@ -459,7 +464,10 @@
     "retweet_count": 0,
     "created_at": "2026-04-02T13:51:46.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-04-02"
+    "collected_at": "2026-04-02",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "実店舗なし（コンサートリプライ）"
   },
   {
     "tweet_id": "2039696234387247581",
@@ -468,7 +476,10 @@
     "retweet_count": 14,
     "created_at": "2026-04-02T13:27:32.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-04-02"
+    "collected_at": "2026-04-02",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "実店舗なし（イベント企画投稿）"
   },
   {
     "tweet_id": "2039975165535437244",
@@ -477,7 +488,10 @@
     "retweet_count": 8,
     "created_at": "2026-04-03T07:55:55.000Z",
     "search_query": "名古屋 非日常",
-    "collected_at": "2026-04-03"
+    "collected_at": "2026-04-03",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "実店舗・場所情報が不明確"
   },
   {
     "tweet_id": "2040049083537404167",
@@ -486,7 +500,10 @@
     "retweet_count": 0,
     "created_at": "2026-04-03T12:49:38.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-04-03"
+    "collected_at": "2026-04-03",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "実店舗なし（コンサートツアー）"
   },
   {
     "tweet_id": "2040045907987894701",
@@ -495,6 +512,9 @@
     "retweet_count": 3,
     "created_at": "2026-04-03T12:37:01.000Z",
     "search_query": "名古屋 知る人ぞ知る",
-    "collected_at": "2026-04-03"
+    "collected_at": "2026-04-03",
+    "structured": true,
+    "spot_id": null,
+    "skip_reason": "実店舗なし（語呂合わせジョーク）"
   }
 ]
